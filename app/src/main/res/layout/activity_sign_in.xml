@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:background="#150D0B"
     android:layout_height="match_parent"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    tools:context=".SignIn">
 
     <LinearLayout
         android:layout_width="wrap_content"
@@ -34,7 +36,7 @@
             android:layout_height="wrap_content"
             android:text="WorldCinema"
             android:textColor="#EF3A01"
-            android:textSize="30dp" />
+            android:textSize="30dp"/>
 
     </LinearLayout>
 
@@ -89,14 +91,16 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal"
         android:layout_gravity="center"
-        android:layout_marginTop="160dp">
+        android:layout_marginTop="150dp">
 
         <Button
+            android:id="@+id/vti"
             android:layout_width="346dp"
             android:layout_height="44dp"
             android:text="Войти"
             android:textSize="15dp"
-            android:backgroundTint="#EF3A01" />
+            android:backgroundTint="#EF3A01"
+            android:onClick="onClick"/>
 
     </LinearLayout>
 
@@ -109,13 +113,15 @@
         android:layout_marginTop="10dp">
 
         <Button
+            android:id="@+id/siu"
             android:layout_width="342dp"
             android:layout_height="48dp"
             android:layout_margin="2dp"
             android:text="Регистрация"
             android:textColor="#EF3A01"
             android:textSize="15dp"
-            android:backgroundTint="@color/black" />
+            android:backgroundTint="@color/black"
+            android:onClick="onClick"/>
 
     </LinearLayout>
 
