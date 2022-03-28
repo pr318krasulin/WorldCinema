@@ -49,7 +49,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:layout_marginLeft="35"
+        android:layout_marginLeft="35dp"
         android:orientation="vertical">
 
         <LinearLayout
@@ -122,6 +122,8 @@
             android:layout_marginLeft="240dp">
 
             <ImageView
+                android:id="@+id/obs"
+                android:onClick="obss"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:background="@drawable/str"
@@ -255,11 +257,13 @@
         android:layout_width="match_parent"
         android:layout_height="65dp"
         android:orientation="horizontal"
-        android:layout_marginTop="680dp"
+        android:layout_marginTop="645dp"
         android:background="#1C1A19"
         >
 
         <LinearLayout
+            android:id="@+id/aa"
+            android:onClick="ocl"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="vertical"
@@ -330,6 +334,8 @@
         </LinearLayout>
 
         <LinearLayout
+            android:id="@+id/aaa"
+            android:onClick="ok"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="vertical"

@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Design.NoActionBar">
         <activity
+            android:name=".ChatList"
+            android:exported="false" />
+        <activity
+            android:name=".IconSelection"
+            android:exported="false" />
+        <activity
             android:name=".CreateCollection"
             android:exported="false" />
         <activity

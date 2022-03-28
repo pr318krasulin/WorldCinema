@@ -28,6 +28,15 @@ public class CreateCollection extends AppCompatActivity {
                 CreateCollection.this.startActivity(a);
             }
         });
+
+        Button button1 = findViewById(R.id.is);
+        button1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent s = new Intent(CreateCollection.this, IconSelection.class);
+                CreateCollection.this.startActivity(s);
+            }
+        });
     }
 
 }

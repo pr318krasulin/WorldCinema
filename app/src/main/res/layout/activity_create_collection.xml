@@ -97,6 +97,8 @@
             >
 
             <Button
+                android:id="@+id/is"
+                android:onClick="iss"
                 android:layout_width="260dp"
                 android:layout_height="wrap_content"
                 android:layout_margin="2dp"
