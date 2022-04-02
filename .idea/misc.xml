@@ -6,7 +6,7 @@
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProjectKrasulin/app/clock/src/main/res/drawable/acc.xml" value="0.174" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProjectKrasulin/app/clock/src/main/res/drawable/border.xml" value="0.174" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProjectKrasulin/app/clock/src/main/res/drawable/text.xml" value="0.174" />
-        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProjectKrasulin/app/clock/src/main/res/layout/activity_main.xml" value="0.5886939571150097" />
+        <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProjectKrasulin/app/clock/src/main/res/layout/activity_main.xml" value="0.9" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProjectKrasulin/app/clock/src/main/res/layout/activity_main_screen.xml" value="0.8184281842818428" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProjectKrasulin/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2985" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProjectKrasulin/app/src/main/res/drawable/ac.xml" value="0.2985" />
@@ -42,6 +42,14 @@
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProjectKrasulin/app/src/main/res/layout/fragment_first.xml" value="0.18802083333333333" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProjectKrasulin/app/src/main/res/layout/sign_in.xml" value="0.25" />
         <entry key="..\:/Users/Administrator/AndroidStudioProjects/ProjectKrasulin/app/src/main/res/layout/sign_up.xml" value="0.25" />
+        <entry key="..\:/Users/Administrator/Desktop/WorldCinema/ProjectKrasulin/app/clock/src/main/res/layout/activity_main.xml" value="1.0" />
+        <entry key="..\:/Users/Administrator/Desktop/WorldCinema/ProjectKrasulin/app/src/main/res/layout/activity_collection.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Administrator/Desktop/WorldCinema/ProjectKrasulin/app/src/main/res/layout/activity_create_collection.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Administrator/Desktop/WorldCinema/ProjectKrasulin/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Administrator/Desktop/WorldCinema/ProjectKrasulin/app/src/main/res/layout/activity_main_screen.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Administrator/Desktop/WorldCinema/ProjectKrasulin/app/src/main/res/layout/activity_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Administrator/Desktop/WorldCinema/ProjectKrasulin/app/src/main/res/layout/activity_sign_in.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Administrator/Desktop/WorldCinema/ProjectKrasulin/app/src/main/res/layout/activity_sign_up.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>

@@ -4,7 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:padding="@dimen/box_inset_layout_padding"
     tools:context=".MainActivity"
     android:background="#150D0B"
     android:orientation="vertical"
@@ -14,7 +13,7 @@
         android:layout_width="50dp"
         android:layout_height="30dp"
         android:layout_marginTop="10dp"
-        android:layout_marginLeft="80dp">
+        android:layout_marginLeft="70dp">
 
         <ImageView
             android:layout_width="wrap_content"
@@ -33,7 +32,7 @@
 
         <TextView
             android:id="@+id/email"
-            android:layout_width="190dp"
+            android:layout_width="150dp"
             android:layout_height="25dp"
             android:layout_margin="2dp"
             android:text="E-mail"
@@ -41,7 +40,7 @@
             android:paddingLeft="20dp"
             android:paddingRight="20dp"
             android:textColor="#EF3A01"
-            android:textSize="15dp" />
+            android:textSize="10dp" />
     </LinearLayout>
 
     <LinearLayout
@@ -54,7 +53,7 @@
 
         <TextView
             android:id="@+id/pass"
-            android:layout_width="190dp"
+            android:layout_width="150dp"
             android:layout_height="25dp"
             android:layout_margin="2dp"
             android:text="Пароль"
@@ -62,7 +61,7 @@
             android:paddingLeft="20dp"
             android:paddingRight="20dp"
             android:textColor="#EF3A01"
-            android:textSize="15dp" />
+            android:textSize="10dp" />
     </LinearLayout>
 
     <LinearLayout
